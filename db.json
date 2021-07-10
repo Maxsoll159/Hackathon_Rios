@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Leanne Graham",
+      "username": "Bret",
+      "phone": "1-770-736-8031 x56442",
+      "website": "hildegard.org"
+    },
+    {
+      "id": 2,
+      "name": "Martin Rios",
+      "username": "Marton",
+      "phone": "1-770-736-8031 x56442",
+      "website": "hildegasadrd.org"
+    },
+    {
+      "id": 3,
+      "name": "Juan Perez",
+      "username": "Juan",
+      "phone": "1-770-736-8031",
+      "website": "hildegadfdfrd.org"
+    },
+    {
+      "id": 438,
+      "name": "Miguel Tantalean",
+      "username": "Miguel",
+      "phone": "987654321",
+      "website": "Miguel.com"
+    },
+    {
+      "id": 396,
+      "name": "JeanPiero Aguila",
+      "username": "Jean",
+      "phone": "215151651",
+      "website": "Jean,com"
+    },
+    {
+      "id": 52,
+      "name": "sdfds",
+      "username": "sdfsdf",
+      "phone": "sdfsdf",
+      "website": "sdfsdf"
+    }
+  ]
+}
